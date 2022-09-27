@@ -1,0 +1,41 @@
+/**
+* @name RoninDiscord
+* @version 1.0.0
+* @description Created by julius alfredo based on the theme of ronin or masterless samurai in Japan
+* @author IArnFredo
+* @github https://github.com/IArnFredo
+*/
+
+:root {
+    /* Background Image */
+    --background-image: url("https://r4.wallpaperflare.com/wallpaper/288/472/57/the-sun-minimalism-japan-sword-warrior-hd-wallpaper-c837ca3c844c8fa30a9a3210b9f62d5f.jpg");
+    --header-primary: rgb(255, 255, 255);
+    --header-secondary: rgb(255, 255, 255);
+    --text-normal: rgb(255, 255, 255);
+    /* Change Horizontal size server */
+    --HSL-server-icon-size: 30px;
+    --HSL-server-spacing: 10px;
+    --server-size: var(--HSL-server-icon-size, var(--HSL-size, 35px));
+    --server-spacing: var(--HSL-server-spacing, var(--HSL-spacing, 10px));
+    --server-container: calc(var(--server-size) + 20px);
+    --server-direction: var(--HSL-server-direction, column);
+    --server-alignment: var(--HSL-server-alignment, flex-start);
+    /* Change Radial Status */
+    --rs-version: "1.0.0";
+    --rs-small-spacing: 2px;
+    --rs-medium-spacing: 3px;
+    --rs-large-spacing: 4px;
+    --rs-small-width: 2px;
+    --rs-medium-width: 5px;
+    --rs-large-width: 7px;
+    --rs-avatar-shape: 50%;
+    --rs-online-color: #43b581;
+    --rs-idle-color: #faa61a;
+    --rs-dnd-color: #f04747;
+    --rs-offline-color: #3f4143;
+    --rs-streaming-color: #643da7;
+    --rs-invisible-color: #D2E6FFFF;
+    --rs-phone-visible: block;
+    /* Change Text color */
+    --member-listing-role-color: rgb(235, 94, 94);
+}
