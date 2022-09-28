@@ -3,7 +3,7 @@
 * @version 1.0.0
 * @description Created by julius alfredo based on the theme of ronin or masterless samurai in Japan
 * @author IArnFredo
-* @github https://github.com/IArnFredo
+* @source https://github.com/IArnFredo/BDproject/tree/main/Themes/RoninDiscord
 */
 
 
@@ -855,9 +855,11 @@ div#app-mount.appMount-2yBXZl::before {
     display: none;
 }
 
-/* ディスコード アルフレード */
+/* ディスコード アルフレード  */
+/* 浪人生ディスコード */
+/* Disukōdo arufureido */
 .wordmarkWindows-2dq6rw::after {
-    content: "Disukōdo arufureido";
+    content: "浪人生ディスコード";
     font-family: var(--font-japanese);
     width: 180px;
     height: 12px;
