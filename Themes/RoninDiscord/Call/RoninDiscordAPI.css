@@ -3,9 +3,9 @@
 #app-mount .app-3xd6d0 .base-2jDfDU {
     top: var(--server-container) !important;
     position: absolute !important;
-    left: 0 !important;
-    right: 0;
-    bottom: 0;
+    left: 3vw !important;
+    right: 3vw !important;
+    bottom: 2vh !important;
     max-width: 100%;
 }
 
