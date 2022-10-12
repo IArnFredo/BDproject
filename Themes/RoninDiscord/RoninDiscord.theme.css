@@ -3,7 +3,7 @@
 * @version 1.0.0
 * @description Based on the theme of ronin or masterless samurai in Japan
 * @author IArnFredo
-* @source https://github.com/IArnFredo/BDproject/tree/main/Themes/RoninDiscord
+* @source https://iarnfredo.github.io/ProjectDainty/Themes/RoninDiscord/
 */
 
 
@@ -57,7 +57,7 @@
                                                                                                               
 */
 
-@import url(https://iarnfredo.github.io/BDproject/Themes/RoninDiscord/Call/RoninDiscordAPI.css);
+@import url(https://iarnfredo.github.io/ProjectDainty/Themes/RoninDiscord/Call/RoninDiscordAPI.css);
 
 :root {
   /* Change Background Image */
