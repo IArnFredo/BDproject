@@ -458,8 +458,12 @@ body,
 /* scroller old												*/
 #app-mount .standardSidebarView-E9Pc3j,
 /* settings													*/
-#app-mount .contentRegion-3HkfJJ {
+#app-mount .contentRegion-3HkfJJ{
     /* settings				content								*/
+    background: transparent;
+}
+
+.member-48YF_l, .members-3WRCEx{
     background: transparent;
 }
 
